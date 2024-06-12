@@ -21,9 +21,8 @@ Sou desenvolvedor PHP Junior na Proponto, formado em Engenharia da Computação 
 
 ## Total de Visitas no Perfil
 
-![Visitantes do perfil](https://visitor-badge.glitch.me/badge?page_id=Matheus-Neris-Rocha.Matheus-Neris-Rocha)
+![Visitantes do perfil](https://komarev.com/ghpvc/?username=Matheus-Neris-Rocha&color=blueviolet)
 
-## Total de Commits
+## Total de Horas em cada Linguagem
 
-[![Total de Commits](https://img.shields.io/github/commit-activity/y/Matheus-Neris-Rocha/Matheus-Neris-Rocha.svg)](https://github.com/Matheus-Neris-Rocha/Matheus-Neris-Rocha/commits)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Neris-Rocha&layout=compact&langs_count=6)](https://github.com/Matheus-Neris-Rocha/github-readme-stats)
